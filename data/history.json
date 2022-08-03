@@ -1992,6 +1992,50 @@
                 "timestr": "2022-08-02 22:32:34",
                 "content": "关注了用户 <a href=\"https://juejin.cn/user/554605767047053\" target=\"_blank\">ShowMeAI</a>"
             }
+        ],
+        "2022-08-03": [
+            {
+                "action_name": "删除文章",
+                "ident": "articles.publish",
+                "id": "7127780797766959141",
+                "timestr": "2022-08-03 22:31:40",
+                "content": "发布了文章 <a href=\"https://juejin.cn/post/7127780797766959141\" target=\"_blank\">如何让 WPF 程序更好地适配 UI 自动化</a>"
+            },
+            {
+                "action_name": "删除文章",
+                "ident": "articles.publish",
+                "id": "7127781236314996773",
+                "timestr": "2022-08-03 22:31:47",
+                "content": "发布了文章 <a href=\"https://juejin.cn/post/7127781236314996773\" target=\"_blank\">Centos8中如何使用Chrony同步时间</a>"
+            },
+            {
+                "action_name": "删除沸点",
+                "ident": "pins.publish",
+                "id": "7127780773070897183",
+                "timestr": "2022-08-03 22:31:47",
+                "content": "发布了沸点 <a href=\"https://juejin.cn/pin/7127780773070897183\" target=\"_blank\">|｡･㉨･)っ♡　喜欢你♪</a>"
+            },
+            {
+                "action_name": "删除沸点",
+                "ident": "pins.publish",
+                "id": "7127781268627914782",
+                "timestr": "2022-08-03 22:31:48",
+                "content": "发布了沸点 <a href=\"https://juejin.cn/pin/7127781268627914782\" target=\"_blank\">你所有的大张旗鼓地表达，只是想换来一个能注意你的人。</a>"
+            },
+            {
+                "ident": "articles.comments",
+                "action_name": "删除评论",
+                "id": "7127780794726384420",
+                "timestr": "2022-08-03 22:31:49",
+                "content": "评论了文章 <a href=\"https://juejin.cn/post/7127686678587637796\" target=\"_blank\">Flutter 系列（一），有固定 header 的底部滑动页效果</a>"
+            },
+            {
+                "ident": "articles.comments",
+                "action_name": "删除评论",
+                "id": "7127780759733289759",
+                "timestr": "2022-08-03 22:31:50",
+                "content": "评论了文章 <a href=\"https://juejin.cn/post/7127687759598682143\" target=\"_blank\">python 一行代码打印小海龟</a>"
+            }
         ]
     }
 }
