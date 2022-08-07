@@ -2520,6 +2520,36 @@
                 "timestr": "2022-08-06 22:29:07",
                 "content": "关注了用户 <a href=\"https://juejin.cn/user/1169536100867949\" target=\"_blank\">lecepin</a>"
             }
+        ],
+        "2022-08-07": [
+            {
+                "action_name": "删除文章",
+                "ident": "articles.publish",
+                "id": "7129265037302038565",
+                "timestr": "2022-08-07 22:29:39",
+                "content": "发布了文章 <a href=\"https://juejin.cn/post/7129265037302038565\" target=\"_blank\">Go开发微信小程序第三方SDK推荐</a>"
+            },
+            {
+                "action_name": "删除文章",
+                "ident": "articles.publish",
+                "id": "7129265089756004360",
+                "timestr": "2022-08-07 22:29:46",
+                "content": "发布了文章 <a href=\"https://juejin.cn/post/7129265089756004360\" target=\"_blank\">二分查找</a>"
+            },
+            {
+                "action_name": "删除沸点",
+                "ident": "pins.publish",
+                "id": "7129265116532441119",
+                "timestr": "2022-08-07 22:29:48",
+                "content": "发布了沸点 <a href=\"https://juejin.cn/pin/7129265116532441119\" target=\"_blank\">美食之于他们是爱、是救赎、是一切美好及温暖的集合</a>"
+            },
+            {
+                "action_name": "删除沸点",
+                "ident": "pins.publish",
+                "id": "7129264580789796900",
+                "timestr": "2022-08-07 22:29:48",
+                "content": "发布了沸点 <a href=\"https://juejin.cn/pin/7129264580789796900\" target=\"_blank\">江山如此多娇，引无数英雄竞折腰。</a>"
+            }
         ]
     }
 }
